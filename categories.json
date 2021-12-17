@@ -1,0 +1,11 @@
+{
+    "categories" : [
+        {
+            "brands": ["Fujifilm", "Kodak", "Ilford", "Kentmere", "Cinestill", "AgfaPhoto", "Dubblefilm"],
+            "iso": ["50", "80", "100", "125", "160", "200", "250", "400", "800", "3200"],
+            "format": ["35mm", "120"],
+            "color": ["Color negative", "Black and white", "Slide"]
+        }
+
+    ]
+}

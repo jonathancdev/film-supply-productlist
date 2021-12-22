@@ -9,7 +9,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "6",
-          "image": "http://localhost:3500/src/img/items/fujicolorc200.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/fujicolorc200.png"
         },
         {
           "id": 2,
@@ -20,7 +20,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "8",
-          "image": "http://localhost:3500/src/img/items/fujicolorsuperiax-tra400.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/fujicolorsuperiax-tra400.png"
         },
         {
           "id": 3,
@@ -31,7 +31,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "13",
-          "image": "http://localhost:3500/src/img/items/fujicolorpro400h.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/fujicolorpro400h.png"
         },
         {
           "id": 4,
@@ -42,7 +42,7 @@
           "format": "35mm",
           "type": "Slide",
           "price": "22",
-          "image": "http://localhost:3500/src/img/items/fujichromevelvia50.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/fujichromevelvia50.png"
         },
         {
           "id": 5,
@@ -53,7 +53,7 @@
           "format": "35mm",
           "type": "Slide",
           "price": "21",
-          "image": "http://localhost:3500/src/img/items/fujichromevelvia100.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/fujichromevelvia100.png"
         },
         {
           "id": 6,
@@ -64,7 +64,7 @@
           "format": "35mm",
           "type": "Slide",
           "price": "18",
-          "image": "http://localhost:3500/src/img/items/fujichromeprovia100f.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/fujichromeprovia100f.png"
         },
         {
           "id": 7,
@@ -75,7 +75,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "12",
-          "image": "http://localhost:3500/src/img/items/neopanacros100ii.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/neopanacros100ii.png"
         },
         {
           "id": 8,
@@ -86,7 +86,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "13",
-          "image": "http://localhost:3500/src/img/items/portra400.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/portra400.png"
         },
         {
           "id": 9,
@@ -97,7 +97,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "11",
-          "image": "http://localhost:3500/src/img/items/portra160.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/portra160.png"
         },
         {
           "id": 10,
@@ -108,7 +108,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "11",
-          "image": "http://localhost:3500/src/img/items/ektar100.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/ektar100.png"
         },
         {
           "id": 11,
@@ -119,7 +119,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "7",
-          "image": "http://localhost:3500/src/img/items/ultramax400.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/ultramax400.png"
         },
         {
           "id": 12,
@@ -130,7 +130,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "9",
-          "image": "http://localhost:3500/src/img/items/tri-x400.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/tri-x400.png"
         },
         {
           "id": 13,
@@ -141,7 +141,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "7",
-          "image": "http://localhost:3500/src/img/items/gold200.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/gold200.png"
         },
         {
           "id": 14,
@@ -152,7 +152,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "8",
-          "image": "http://localhost:3500/src/img/items/t-max400.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/t-max400.png"
         },
         {
           "id": 15,
@@ -163,7 +163,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "7",
-          "image": "http://localhost:3500/src/img/items/proimage100.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/proimage100.png"
         },
         {
           "id": 16,
@@ -174,7 +174,7 @@
           "format": "35mm",
           "type": "Slide",
           "price": "17",
-          "image": "http://localhost:3500/src/img/items/ektachromee100.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/ektachromee100.png"
         },
         {
           "id": 17,
@@ -185,7 +185,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "11",
-          "image": "http://localhost:3500/src/img/items/t-maxp3200.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/t-maxp3200.png"
         },
         {
           "id": 18,
@@ -196,7 +196,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "6",
-          "image": "http://localhost:3500/src/img/items/colorplus200.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/colorplus200.png"
         },
         {
           "id": 19,
@@ -207,7 +207,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "14",
-          "image": "http://localhost:3500/src/img/items/portra800.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/portra800.png"
         },
         {
           "id": 20,
@@ -218,7 +218,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "11",
-          "image": "http://localhost:3500/src/img/items/orthoplus.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/orthoplus.png"
         },
         {
           "id": 21,
@@ -229,7 +229,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "8",
-          "image": "http://localhost:3500/src/img/items/delta100.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/delta100.png"
         },
         {
           "id": 22,
@@ -240,7 +240,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "9",
-          "image": "http://localhost:3500/src/img/items/delta3200.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/delta3200.png"
         },
         {
           "id": 23,
@@ -251,7 +251,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "8",
-          "image": "http://localhost:3500/src/img/items/delta400.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/delta400.png"
         },
         {
           "id": 24,
@@ -262,7 +262,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "6",
-          "image": "http://localhost:3500/src/img/items/fp4plus.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/fp4plus.png"
         },
         {
           "id": 25,
@@ -273,7 +273,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "6",
-          "image": "http://localhost:3500/src/img/items/hp5plus.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/hp5plus.png"
         },
         {
           "id": 26,
@@ -284,7 +284,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "8",
-          "image": "http://localhost:3500/src/img/items/panfplus.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/panfplus.png"
         },
         {
           "id": 27,
@@ -295,7 +295,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "6",
-          "image": "http://localhost:3500/src/img/items/pan100k.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/pan100k.png"
         },
         {
           "id": 28,
@@ -306,7 +306,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "6",
-          "image": "http://localhost:3500/src/img/items/pan400k.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/pan400k.png"
         },
         {
           "id": 29,
@@ -317,7 +317,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "14",
-          "image": "http://localhost:3500/src/img/items/800t.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/800t.png"
         },
         {
           "id": 30,
@@ -328,7 +328,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "14",
-          "image": "http://localhost:3500/src/img/items/50d.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/50d.png"
         },
         {
           "id": 31,
@@ -339,7 +339,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "11",
-          "image": "http://localhost:3500/src/img/items/bwxx.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/bwxx.png"
         },
         {
           "id": 32,
@@ -350,7 +350,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "5",
-          "image": "http://localhost:3500/src/img/items/apx100.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/apx100.png"
         },
         {
           "id": 33,
@@ -361,7 +361,7 @@
           "format": "35mm",
           "type": "Black and white",
           "price": "5",
-          "image": "http://localhost:3500/src/img/items/apx_400.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/apx_400.png"
         },
         {
           "id": 34,
@@ -372,7 +372,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "14",
-          "image": "http://localhost:3500/src/img/items/dubbleapollo.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/dubbleapollo.png"
         },
         {
           "id": 35,
@@ -383,7 +383,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "14",
-          "image": "http://localhost:3500/src/img/items/dubblebubblegum.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/dubblebubblegum.png"
         },
         {
           "id": 36,
@@ -394,7 +394,7 @@
           "format": "35mm",
           "type": "Color Negative",
           "price": "14",
-          "image": "http://localhost:3500/src/img/items/dubblestereo.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/dubblestereo.png"
         },
         {
           "id": 37,
@@ -405,7 +405,7 @@
           "format": "120",
           "type": "Black and white",
           "price": "12",
-          "image": "http://localhost:3500/src/img/items/acros120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/acros120.png"
         },
         {
           "id": 38,
@@ -416,7 +416,7 @@
           "format": "120",
           "type": "Color Negative",
           "price": "15",
-          "image": "http://localhost:3500/src/img/items/400h120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/400h120.png"
         },
         {
           "id": 39,
@@ -427,7 +427,7 @@
           "format": "120",
           "type": "Slide",
           "price": "10",
-          "image": "http://localhost:3500/src/img/items/provia100120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/provia100120.png"
         },
         {
           "id": 40,
@@ -438,7 +438,7 @@
           "format": "120",
           "type": "Slide",
           "price": "12",
-          "image": "http://localhost:3500/src/img/items/velvia50120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/velvia50120.png"
         },
         {
           "id": 41,
@@ -449,7 +449,7 @@
           "format": "120",
           "type": "Slide",
           "price": "12",
-          "image": "http://localhost:3500/src/img/items/velvia100120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/velvia100120.png"
         },
         {
           "id": 42,
@@ -460,7 +460,7 @@
           "format": "120",
           "type": "Slide",
           "price": "13",
-          "image": "http://localhost:3500/src/img/items/e100120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/e100120.png"
         },
         {
           "id": 43,
@@ -471,7 +471,7 @@
           "format": "120",
           "type": "Color Negative",
           "price": "11",
-          "image": "http://localhost:3500/src/img/items/ektar100120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/ektar100120.png"
         },
         {
           "id": 44,
@@ -482,7 +482,7 @@
           "format": "120",
           "type": "Color",
           "price": "11",
-          "image": "http://localhost:3500/src/img/items/portra160120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/portra160120.png"
         },
         {
           "id": 45,
@@ -493,7 +493,7 @@
           "format": "120",
           "type": "Color Negative",
           "price": "12",
-          "image": "http://localhost:3500/src/img/items/portra400120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/portra400120.png"
         },
         {
           "id": 46,
@@ -504,7 +504,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 47,
@@ -515,7 +515,7 @@
           "format": "120",
           "type": "Color Negative",
           "price": "15",
-          "image": "http://localhost:3500/src/img/items/portra800120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/portra800120.png"
         },
         {
           "id": 48,
@@ -526,7 +526,7 @@
           "format": "120",
           "type": "Black and white",
           "price": "10",
-          "image": "http://localhost:3500/src/img/items/tmax400120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/tmax400120.png"
         },
         {
           "id": 49,
@@ -537,7 +537,7 @@
           "format": "120",
           "type": "Black and white",
           "price": "10",
-          "image": "http://localhost:3500/src/img/items/trix400120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/trix400120.png"
         },
         {
           "id": 50,
@@ -548,7 +548,7 @@
           "format": "120",
           "type": "Black and white",
           "price": "7",
-          "image": "http://localhost:3500/src/img/items/delta100120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/delta100120.png"
         },
         {
           "id": 51,
@@ -559,7 +559,7 @@
           "format": "120",
           "type": "Black and white",
           "price": "11",
-          "image": "http://localhost:3500/src/img/items/ortho120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/ortho120.png"
         },
         {
           "id": 52,
@@ -570,7 +570,7 @@
           "format": "120",
           "type": "Black and white",
           "price": "9",
-          "image": "http://localhost:3500/src/img/items/delta3200120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/delta3200120.png"
         },
         {
           "id": 53,
@@ -581,7 +581,7 @@
           "format": "120",
           "type": "Black and white",
           "price": "8",
-          "image": "http://localhost:3500/src/img/items/delta400120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/delta400120.png"
         },
         {
           "id": 54,
@@ -592,7 +592,7 @@
           "format": "120",
           "type": "Black and white",
           "price": "7",
-          "image": "http://localhost:3500/src/img/items/fp4120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/fp4120.png"
         },
         {
           "id": 55,
@@ -603,7 +603,7 @@
           "format": "120",
           "type": "Black and white",
           "price": "7",
-          "image": "http://localhost:3500/src/img/items/hp5120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/hp5120.png"
         },
         {
           "id": 56,
@@ -614,7 +614,7 @@
           "format": "120",
           "type": "Black and white",
           "price": "7",
-          "image": "http://localhost:3500/src/img/items/panf120.png"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/panf120.png"
         },
         {
           "id": 57,
@@ -625,7 +625,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 58,
@@ -636,7 +636,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 59,
@@ -647,7 +647,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 60,
@@ -658,7 +658,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 61,
@@ -669,7 +669,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 62,
@@ -680,7 +680,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 63,
@@ -691,7 +691,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 64,
@@ -702,7 +702,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 65,
@@ -713,7 +713,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 66,
@@ -724,7 +724,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 67,
@@ -735,7 +735,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 68,
@@ -746,7 +746,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 69,
@@ -757,7 +757,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 70,
@@ -768,7 +768,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 71,
@@ -779,7 +779,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 72,
@@ -790,7 +790,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 73,
@@ -801,7 +801,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 74,
@@ -812,7 +812,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 75,
@@ -823,7 +823,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 76,
@@ -834,7 +834,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 77,
@@ -845,7 +845,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 78,
@@ -856,7 +856,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 79,
@@ -867,7 +867,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 80,
@@ -878,7 +878,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 81,
@@ -889,7 +889,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 82,
@@ -900,7 +900,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 83,
@@ -911,7 +911,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 84,
@@ -922,7 +922,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 85,
@@ -933,7 +933,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 86,
@@ -944,7 +944,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 87,
@@ -955,7 +955,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 88,
@@ -966,7 +966,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 89,
@@ -977,7 +977,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 90,
@@ -988,7 +988,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 91,
@@ -999,7 +999,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 92,
@@ -1010,7 +1010,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 93,
@@ -1021,7 +1021,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 94,
@@ -1032,7 +1032,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 95,
@@ -1043,7 +1043,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 96,
@@ -1054,7 +1054,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 97,
@@ -1065,7 +1065,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 98,
@@ -1076,7 +1076,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 99,
@@ -1087,7 +1087,7 @@
           "format": " ",
           "type": " ",
           "price": " ",
-          "image": "http://localhost:3500/src/img/items/"
+          "image": "https://res.cloudinary.com/dklynundl/image/upload/v1640215506/items/"
         },
         {
           "id": 100,
